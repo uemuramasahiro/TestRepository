@@ -68,7 +68,6 @@ namespace BakusaiSearch
         // パス
         public static string LIST_FOLDER_PATH = @"D:\Desktop\test";
         public static string HP_LIST_FILE_PATH = @"D:\Desktop\test\HPList.xml";
-        //public static string FAVORITE_LIST_FILE_PATH = @"D:\Desktop\test\FavoriteList.xml";
 
         // XMLタグ
         public static string XML_TAG_HP_LIST = "HomePageList";
@@ -81,9 +80,9 @@ namespace BakusaiSearch
         }
 
         public static readonly List<string> LocationList = new List<string> {
-            Define.COMBOBOX_ITEM_OOSAKA,
-            Define.COMBOBOX_ITEM_HYOGO,
-            Define.COMBOBOX_ITEM_KYOTO,
+            COMBOBOX_ITEM_OOSAKA,
+            COMBOBOX_ITEM_HYOGO,
+            COMBOBOX_ITEM_KYOTO,
             Define.COMBOBOX_ITEM_TOKYOU,
             Define.COMBOBOX_ITEM_SIGA
         };
