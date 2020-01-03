@@ -1,0 +1,17 @@
+<<<<<<< .merge_file_a08532
+*.exe
+*.cache
+*.dll
+*.log
+*.pdb
+=======
+>>>>>>> .merge_file_a06604
+BakusaiSearch/.vs/BakusaiSearch/v16/.suo
+BakusaiSearch/.vs/BakusaiSearch/v16/Server/sqlite3/db.lock
+BakusaiSearch/.vs/BakusaiSearch/v16/Server/sqlite3/storage.ide
+BakusaiSearch/.vs/BakusaiSearch/v16/Server/sqlite3/storage.ide-shm
+<<<<<<< .merge_file_a08532
+=======
+BakusaiSearch/BakusaiSearch/obj/Debug/BakusaiSearch.csprojAssemblyReference.cache
+>>>>>>> .merge_file_a06604
+BakusaiSearch/.vs/BakusaiSearch/v16/Server/sqlite3/storage.ide-wal
