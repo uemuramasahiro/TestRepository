@@ -1,0 +1,15 @@
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\bin\Debug\BakusaiSearch.exe.config
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\Interop.SHDocVw.dll
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.csproj.ResolveComReference.cache
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\bin\Debug\BakusaiSearch.exe
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\bin\Debug\BakusaiSearch.pdb
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\bin\Debug\ja\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.csprojResolveAssemblyReference.cache
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.WinForm.FavoriteAddForm.resources
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.WinForm.FavoriteDeleteForm.resources
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.MainForm.resources
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.Properties.Resources.resources
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.csproj.GenerateResource.Cache
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.exe
+D:\SVN\Development\1.0.0.0\BakusaiSearch\BakusaiSearch\obj\Debug\BakusaiSearch.pdb
